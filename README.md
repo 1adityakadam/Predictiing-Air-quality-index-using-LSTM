@@ -1,25 +1,15 @@
-<div style: text-align="center">
-  
-  ![ew](https://github.com/user-attachments/assets/7ed51d96-7aa8-4fda-8ab8-d251e73a4118) ![eq](https://github.com/user-attachments/assets/88fb9569-9541-4214-b89f-fc7bc5f9d88d)
-  
-</div>
+# Air-quality-index-prediction-using-LSTM
+In this project, I predict air quality index of a city in China using a long short term memory neural network 
+(which works the best for time series analysis).
 
----
+To get started, you can refer to my notebook. I perform in-depth exploratory data analysis and visualizations to help understand and prove the insights obtained.
+The dataset contains the data starting from January 1, 2013 to February 28, 2017. 
 
-<div align="justify">
+It encompasses the concentrations of different pollutants for each hour of the day along with the data of the environmental conditions.
+Pollutants include PM2.5, PM10, SO2, NO2, CO, O3. Environmental conditions include temperature, pressure, dewpoint, rain, wind directon and wind speed per minute.
 
+Also, I have just displayed the first 5 entries of all the output arrays and lists. The reason I did so was I didn't want you to scroll through a massive number of entries.
 
-  <p>This project visualizes global sleep data obtained from an external API, which is refreshed weekly - <a href="https://sandman.sleepcycle.com/data">sandman.sleepcycle.com</a>.<br><br>The raw data underwent cleaning and transformation within a <a href="https://github.com/1adityakadam/sleep_statistics/blob/main/sleep_statistics.ipynb" >Jupyter Notebook</a>&nbsp;environment, leveraging pandas for data manipulation.<br><br>The Power BI dashboard presents global data related to sleep, including average bedtime and wake-up time shifts across different countries. It also showcases specific sleep metrics, such as sleep duration and snore duration, gathered from a participant group, demonstrates Power BI data modeling using DAX and interactive data exploration with drill-down functionality, offering a comprehensive view of worldwide sleep patterns.</p>
-</div>
-
----
-
-<br>
-
-<p align="center">
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/560c02c1-afe2-4c8e-b1ce-296d780ccc94"/>
-  <img width="400" alt="image" src="https://github.com/user-attachments/assets/212dc04e-b3e0-41a7-b245-ed1313f783e9"/>
-</p>
 
 
 
